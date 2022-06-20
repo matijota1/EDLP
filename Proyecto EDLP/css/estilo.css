@@ -1,0 +1,28 @@
+body {background-color: #FA5858;
+  background-image:url(../imagenes./banderaperu.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size:cover;
+
+}
+.parrafoinicial {font-size: x-large;}
+
+
+h4 {font-size:large}
+
+h1 {text-decoration:underline;}
+h1 {text-align: center;}
+
+h3{text-decoration-line:underline;}
+h3 {text-decoration-style: double;}
+h3 {font-style: italic;}
+
+
+nav{display: flex;
+  justify-content: space-around;
+}
+
+
+img { width: 25%;
+  height: 25%;
+}
